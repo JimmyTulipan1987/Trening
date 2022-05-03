@@ -2,8 +2,9 @@
 A jednu line dame aj na zaciatok, aby sme si pozreli ci a ako funguje mergeovanie....
 
 
-
-Vyskusame este raz, nejak sa mi to nepozdava...
+----
+toto je local zmena
+--------------
 
 
 ## Nadpis druhej urovne
@@ -41,5 +42,10 @@ Aliquam erat volutpat. Integer ornare quam non urna luctus laoreet. In vel dolor
 
 
 Pridame na koniec jednu line, aby sme si otestovali mergovanie....uvidime ako to pojde....
+
+
+-----
+a aj tu je local-------
+--------------
 
 
