@@ -4,6 +4,7 @@ c
 a
 b
 
+
 ----
 toto je local zmena
 --------------
