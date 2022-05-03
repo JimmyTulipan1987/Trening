@@ -20,7 +20,7 @@ raz, dva tri</p>
 <p>I think I'll use it to format all of my documents from now on.</p>
 
 <b>Tucne pismo</b>
-<i>kurziva sa tiez podari?</>
+<i>kurziva sa tiez podari?</i>
  
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque porta efficitur euismod. Sed a posuere justo. Curabitur ac diam ipsum. Aenean tellus massa, consectetur in velit sit amet, blandit egestas turpis. Sed nisl ipsum, eleifend ut faucibus nec, volutpat id orci. Duis sed sem sit amet purus tristique dignissim. Proin tristique pretium urna, sed finibus lacus pulvinar at. Pellentesque sit amet est blandit, imperdiet eros ac, fermentum justo. Donec odio elit, vestibulum sed mauris quis, pellentesque aliquet libero.
 
