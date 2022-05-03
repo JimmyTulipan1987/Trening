@@ -1,0 +1,6 @@
+*.bin
+*.exe
+output
+temp
+./ignorethis/*
+*temporary.*
