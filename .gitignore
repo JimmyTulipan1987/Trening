@@ -2,5 +2,5 @@
 *.exe
 output
 temp
-./ignorethis/*
+ignorethis/*
 *temporary.*
