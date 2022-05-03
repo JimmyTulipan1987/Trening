@@ -1,5 +1,6 @@
 # Trening
 A jednu line dame aj na zaciatok, aby sme si pozreli ci a ako funguje mergeovanie....
+nie, nie, nie...to nejde
 
 ## Nadpis druhej urovne
 
