@@ -1,6 +1,6 @@
 # Trening
 A jednu line dame aj na zaciatok, aby sme si pozreli ci a ako funguje mergeovanie....
-
+a
 
 ----
 toto je local zmena
