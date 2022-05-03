@@ -5,6 +5,10 @@ A jednu line dame aj na zaciatok, aby sme si pozreli ci a ako funguje mergeovani
 
 Vyskusame este raz, nejak sa mi to nepozdava...
 
+-------------
+toto je remote zmena
+------------
+
 
 ## Nadpis druhej urovne
 
