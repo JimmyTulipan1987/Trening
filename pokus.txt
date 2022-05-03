@@ -3,3 +3,11 @@ a
 b
 c
 d
+
+Prezidenti SR:
+
+- Michal Kovac
+- Rudolf Schuster
+- Ivan Gasparovic
+- Andrej Kiska
+- Zuzana Caputova
