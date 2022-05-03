@@ -6,6 +6,10 @@ A jednu line dame aj na zaciatok, aby sme si pozreli ci a ako funguje mergeovani
 toto je local zmena
 --------------
 
+-------------
+toto je remote zmena
+------------
+
 
 ## Nadpis druhej urovne
 
