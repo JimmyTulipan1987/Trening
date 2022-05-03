@@ -32,3 +32,9 @@ Quisque leo libero, consequat ut lorem elementum, viverra rhoncus neque. Cras nu
 Fusce et purus lobortis, vehicula neque vel, congue purus. Nunc dignissim nibh augue, porta rutrum arcu consequat et. Integer facilisis tortor a ante congue egestas. Nulla id metus vestibulum elit accumsan maximus. Nulla pharetra nisl ac risus placerat, vel rutrum massa laoreet. Nulla volutpat accumsan nisl convallis venenatis. Sed non fermentum nisl, quis efficitur ante. Curabitur sit amet finibus nunc. Mauris ut magna ut mi cursus imperdiet. Phasellus a arcu auctor, posuere tellus vel, vulputate lectus. Fusce quis dolor id libero imperdiet ultricies et quis augue. Sed bibendum, neque vitae laoreet fringilla, dolor diam scelerisque massa, vel dapibus diam neque non dolor. Cras auctor ornare elit, ac pellentesque ante ultricies nec.
 
 Aliquam erat volutpat. Integer ornare quam non urna luctus laoreet. In vel dolor nec mi tempor eleifend. Fusce euismod tristique nisi, sit amet posuere quam consectetur ut. Aenean metus felis, tincidunt quis rutrum et, suscipit ut nisl. Etiam ac elementum quam. Suspendisse eu ipsum dui. Vestibulum dapibus purus nibh, quis semper nisi laoreet sed. Duis non orci dignissim, elementum tortor in, pretium dolor. Praesent sed imperdiet elit. Curabitur tempus augue eu magna semper, eget auctor urna imperdiet. In hac habitasse platea dictumst. </p>
+
+
+
+Pridame na koniec jednu line, aby sme si otestovali mergovanie....uvidime ako to pojde....
+
+
