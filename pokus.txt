@@ -11,3 +11,6 @@ Prezidenti SR:
 - Ivan Gasparovic
 - Andrej Kiska
 - Zuzana Caputova
+
+feature president:
+Marko L.
