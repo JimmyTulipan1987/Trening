@@ -14,3 +14,5 @@ Prezidenti SR:
 
 feature president:
 Marko L.
+
+iba zeby nie
