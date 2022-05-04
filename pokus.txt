@@ -11,3 +11,4 @@ feature president:
 Marko L.
 
 iba zeby nie
+iba zeby hej?
